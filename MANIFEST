@@ -1,6 +1,7 @@
+.cvsignore
 bin/cmd.pl
 Build.PL
-ChangeLog
+Changes
 COPYING
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm

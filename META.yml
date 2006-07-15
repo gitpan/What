@@ -4,7 +4,7 @@ build_requires:
   Test::Exception: 0
   Test::More: 0
 distribution_type: module
-generated_by: Module::Install version 0.56
+generated_by: Module::Install version 0.63
 license: gpl
 name: What
 no_index:
@@ -16,4 +16,4 @@ requires:
   Exception::Class: 1.21
   IO::Socket::INET: 0
   Net::Cmd: 0
-version: 1.00
+version: 1.01

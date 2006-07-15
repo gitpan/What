@@ -1,0 +1,19 @@
+2006-02-24  toni  <toni@irational.org>  (1.00)
+
+1.01 - Sat Jul 15 02:55:50 2006
+	new Modules::Install. old one became broken.
+
+1.01 - Sat Jul 15 02:55:28 2006
+	new Modules::Install. old one became broken.
+
+1.01 - Sat Jul 15 02:53:18 2006
+	new Modules::Install version
+
+1.01 - Sat Jul 15 02:52:49 2006
+	Modules::Install became broken
+
+
+
+	* What.pm: first version, What::MTA implementation for Exim,
+	Postfix, Sendmail, Courier, XMail, MaswMail.
+

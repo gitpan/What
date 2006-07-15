@@ -5,7 +5,7 @@ use vars qw($VERSION);
 use lib qw(lib);
 use What::MTA;
 
-$VERSION = "1.00";
+$VERSION = "1.01";
 
 =head1 NAME
 
